@@ -1,12 +1,26 @@
 {
   "notices": [
     {
+      "id": "v0-9-0",
+      "date": "2026-11-05",
+      "title": "Rotina que publica sem revisão",
+      "body": "Em Piloto automático › Configurar rotina, escolha publicar direto ou revisar antes. As prévias também podem ser aprovadas no app, com Publicar agora ou Agendar.",
+      "action": {
+        "label": "Abrir piloto",
+        "view": "pilot"
+      },
+      "minVersion": "0.9.0"
+    },
+    {
       "id": "estrategia-contexto",
       "date": "2026-11-05",
       "important": true,
       "title": "Seu Contexto da Marca agora vira um plano de venda",
       "body": "O Carrossell passou a montar o Contexto da Marca pensando em como vender: para quem falar, quais assuntos atraem o cliente antes de ele conhecer o seu produto, quanto de cada tipo de post e qual CTA usar. Se você configurou a marca antes desta versão, abra Marca › Contexto e clique em \"Melhorar estratégia\". Você revisa a nova versão antes de trocar.",
-      "action": { "label": "Melhorar estratégia", "view": "brand:contexto" },
+      "action": {
+        "label": "Melhorar estratégia",
+        "view": "brand:contexto"
+      },
       "minVersion": "0.8.0"
     }
   ]
