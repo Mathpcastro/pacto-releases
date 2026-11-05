@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "v0-10-0",
+      "date": "2026-11-05",
+      "title": "Imagens com a cara da sua marca",
+      "body": "Adicione imagens em Marca › Referências visuais. As novas artes usam essas referências e o contexto da sua marca para escolher elementos ligados ao seu negócio.",
+      "action": {
+        "label": "Abrir Marca",
+        "view": "brand"
+      },
+      "minVersion": "0.10.0"
+    },
+    {
       "id": "v0-9-0",
       "date": "2026-11-05",
       "title": "Rotina que publica sem revisão",
