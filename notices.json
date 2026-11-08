@@ -1,6 +1,18 @@
 {
   "notices": [
     {
+      "id": "v0-10-1",
+      "date": "2026-11-08",
+      "important": true,
+      "title": "A rotina não pausa mais quando algo falha",
+      "body": "Se a sua rotina pausou sozinha, ative de novo em Piloto automático. Agora, quando um carrossel falha, o app tenta de novo sozinho e os próximos horários continuam.",
+      "action": {
+        "label": "Abrir piloto",
+        "view": "pilot"
+      },
+      "minVersion": "0.10.1"
+    },
+    {
       "id": "v0-10-0",
       "date": "2026-11-05",
       "title": "Imagens com a cara da sua marca",
