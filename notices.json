@@ -1,6 +1,13 @@
 {
   "notices": [
     {
+      "id": "v1-10-2",
+      "date": "2026-11-11",
+      "title": "O Radar agora está no menu principal",
+      "body": "Abra o Radar para encontrar ideias, revisar carrosséis e configurar o piloto automático. Quando houver prévias para aprovar, o Início mostra um atalho para a fila.",
+      "minVersion": "1.10.2"
+    },
+    {
       "id": "v0-10-1",
       "date": "2026-11-08",
       "important": true,
