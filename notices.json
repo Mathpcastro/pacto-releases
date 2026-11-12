@@ -1,6 +1,13 @@
 {
   "notices": [
     {
+      "id": "v1-13-1",
+      "date": "2026-11-12",
+      "title": "Ativação da licença mais clara",
+      "body": "Agora a janela de ativação sempre diz o que aconteceu: licença ativada, e-mail sem compra ou o que falta marcar. Use o mesmo e-mail do pagamento.",
+      "minVersion": "1.13.1"
+    },
+    {
       "id": "v1-11-1",
       "date": "2026-11-12",
       "title": "No Mac, o app abre mesmo com o piloto rodando",
