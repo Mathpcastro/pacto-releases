@@ -1,6 +1,13 @@
 {
   "notices": [
     {
+      "id": "v1-11-1",
+      "date": "2026-11-12",
+      "title": "No Mac, o app abre mesmo com o piloto rodando",
+      "body": "Se o Carrossell estava rodando em segundo plano, clicar no app agora mostra a janela normalmente.",
+      "minVersion": "1.11.1"
+    },
+    {
       "id": "v1-10-2",
       "date": "2026-11-11",
       "title": "O Radar agora está no menu principal",
