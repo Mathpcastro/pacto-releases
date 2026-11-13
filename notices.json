@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "v1-13-2",
+      "date": "2026-11-13",
+      "title": "Piloto automático mais confiável",
+      "body": "A prévia chega mais rápido no Telegram, e quando um horário não sai o bot avisa o motivo. Se você reconectou o Instagram, a rotina passa a usar a conta nova sozinha.",
+      "action": {
+        "label": "Abrir piloto",
+        "view": "pilot"
+      },
+      "minVersion": "1.13.2"
+    },
+    {
       "id": "v1-13-1",
       "date": "2026-11-12",
       "title": "Ativação da licença mais clara",
