@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "v1-13-3",
+      "date": "2026-11-13",
+      "title": "Carrossel em outro idioma e artes mais bonitas",
+      "body": "Agora você gera em português de Portugal, espanhol ou inglês em Ajustes › Idioma. A Arte com IA escolhe ilustração e fonte pelo seu negócio, e você troca em Marca › Design Kit.",
+      "action": {
+        "label": "Ver direção de arte",
+        "view": "brand:design"
+      },
+      "minVersion": "1.13.3"
+    },
+    {
       "id": "v1-13-2",
       "date": "2026-11-13",
       "title": "Piloto automático mais confiável",
