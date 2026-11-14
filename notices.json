@@ -1,6 +1,13 @@
 {
   "notices": [
     {
+      "id": "v1-13-5",
+      "date": "2026-11-14",
+      "title": "Revisão acessível em conversas longas",
+      "body": "Mesmo quando a conversa do Estúdio fica longa, você consegue marcar os itens da revisão, aprovar o roteiro e seguir para a capa.",
+      "minVersion": "1.13.5"
+    },
+    {
       "id": "v1-13-4",
       "date": "2026-11-14",
       "important": true,
