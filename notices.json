@@ -1,6 +1,18 @@
 {
   "notices": [
     {
+      "id": "v1-13-4",
+      "date": "2026-11-14",
+      "important": true,
+      "title": "Rotina volta a criar carrosséis",
+      "body": "Corrigimos o erro \"Invalid string length\", que travava a biblioteca de quem já tinha muitos carrosséis. Se algum ficou com erro no Piloto automático, toque em Retomar.",
+      "action": {
+        "label": "Abrir piloto",
+        "view": "pilot"
+      },
+      "minVersion": "1.13.4"
+    },
+    {
       "id": "v1-13-3",
       "date": "2026-11-13",
       "title": "Carrossel em outro idioma e artes mais bonitas",
