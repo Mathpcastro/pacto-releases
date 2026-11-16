@@ -1,6 +1,13 @@
 {
   "notices": [
     {
+      "id": "v1-14-0",
+      "date": "2026-11-16",
+      "title": "A Biblioteca voltou ao menu principal",
+      "body": "Agora você pode abrir a Biblioteca pelo menu. Se você tem o Swipe File do Carrossell, arraste o ZIP para pesquisar as 500 referências no app.",
+      "minVersion": "1.14.0"
+    },
+    {
       "id": "v1-13-5",
       "date": "2026-11-14",
       "title": "Revisão acessível em conversas longas",
