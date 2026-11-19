@@ -1,6 +1,17 @@
 {
   "notices": [
     {
+      "id": "v1-14-1",
+      "date": "2026-11-19",
+      "title": "Referência da Biblioteca vira o modelo da capa",
+      "body": "Ao usar uma referência da Biblioteca, a capa agora segue o layout do post escolhido. Em Marca › Fotos, as cenas mostram a ideia e as aprovadas são geradas uma de cada vez.",
+      "action": {
+        "label": "Abrir Biblioteca",
+        "view": "library"
+      },
+      "minVersion": "1.14.1"
+    },
+    {
       "id": "v1-14-0",
       "date": "2026-11-16",
       "title": "A Biblioteca voltou ao menu principal",
