@@ -6,8 +6,8 @@
       "title": "Referência da Biblioteca vira o modelo da capa",
       "body": "Ao usar uma referência da Biblioteca, a capa agora segue o layout do post escolhido. Em Marca › Fotos, as cenas mostram a ideia e as aprovadas são geradas uma de cada vez.",
       "action": {
-        "label": "Abrir Biblioteca",
-        "view": "library"
+        "label": "Ver cenas de fotos",
+        "view": "brand:fotos"
       },
       "minVersion": "1.14.1"
     },
