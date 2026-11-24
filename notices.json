@@ -1,6 +1,13 @@
 {
   "notices": [
     {
+      "id": "v1-15-1",
+      "date": "2026-11-24",
+      "title": "Volte a gerar texto no Estúdio",
+      "body": "A geração de texto no Estúdio voltou a funcionar. Se o seu carrossel ficou parado, abra o rascunho e clique em Gerar o texto.",
+      "minVersion": "1.15.1"
+    },
+    {
       "id": "v1-14-1",
       "date": "2026-11-19",
       "title": "Referência da Biblioteca vira o modelo da capa",
